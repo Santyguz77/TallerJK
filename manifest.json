@@ -1,6 +1,6 @@
 {
-  "name": "MIPC Computadores - Sistema de Gestión",
-  "short_name": "MIPC Taller",
+  "name": "JK - Sistema de Gestión",
+  "short_name": "JK",
   "description": "Sistema completo de gestión para taller: órdenes, facturas, inventario y finanzas",
   "start_url": "/index.html",
   "display": "standalone",
